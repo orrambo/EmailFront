@@ -1,0 +1,121 @@
+body {
+    background-color: #F2FFFE !important;
+}
+.navigation_container{
+    width:100%;
+    background: #F2FFFE;
+    color: #1976d2;
+    position: fixed;
+    top:0;
+    z-index: 1;
+    height:91px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+}
+.navigation_logo_grid{
+    display:flex;
+    justify-content: center;
+}
+.navigation_search_grid{
+    display:flex;
+    justify-content: center;
+}
+.navigation_avatar_grid{
+    display:flex;
+    justify-content: center;
+}
+.logo{
+    width: 20%;
+    display:inline-block;
+    text-align: center;
+}
+.logo_container{
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    flex-direction: row;
+    text-decoration-line: none;
+}
+.logo_svg{
+    display:flex;
+}
+
+.logo_text{
+    top:0;
+    display:flex;
+    color: #1976d2;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+}
+.avatar{
+    stroke: #1976d2;
+    outline: #1976d2 solid 1px;
+}
+.avatar_container{
+    justify-content: right;
+    display:flex;
+    padding-right: 25%;
+}
+
+.modal_box{
+    position: absolute;
+    top: 0;
+    left: 78%;
+    width: 22%;
+    height:22%;
+    filter: drop-shadow(0 4px 4px rgba(0,0,0,0.25));
+    background-color: #F2FFFE;
+    border-radius: 10px 0 10px 10px;
+}
+.modal_grid{
+    width:100%;
+    height:40%;
+    display:flex;
+    align-items: center;
+}
+.modal_avatar_container{
+    display:flex;
+    justify-content: center;
+}
+.modal_avatar{
+    stroke: #1976d2;
+    outline: #1976d2 solid 1px;
+}
+.modal_mail_container{
+    font-size: 18px;
+    display:flex;
+    justify-content: center;
+}
+.modal_cross_container{
+    display:flex;
+    justify-content: center;
+}
+.modal_cross_svg{
+    fill:#000000;
+}
+
+.modal_grid_button{
+    width:100%;
+    height:50%;
+    display:flex;
+    align-items: center;
+}
+.modal_button1_container{
+    display:flex;
+    justify-content: center;
+    text-decoration-line: none;
+}
+.modal_button1{
+    width: 85%
+}
+.modal_button2_container{
+    display:flex;
+    justify-content: center;
+    text-decoration-line: none;
+}
+.modal_button2{
+    width: 85%;
+}

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="673ea507-ba06-4964-9218-d75b73b71e29" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../UML.mdj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../UML.mdj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaBack/manga/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaBack/manga/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaBack/manga/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaBack/manga/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaBack/manga/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaBack/manga/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaBack/manga/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaBack/manga/service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaBack/manga/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaBack/manga/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaBack/mangaAPI/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaBack/mangaAPI/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaBack/mangaAPI/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaBack/mangaAPI/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/contexts/provider.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/contexts/provider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/contexts/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/contexts/reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/pages/CartPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/pages/CartPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/pages/LoginPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/pages/LoginPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/pages/ManagerPurchasePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/pages/ManagerPurchasePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/pages/MangaPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/pages/MangaPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/pages/Navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/pages/Navigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/pages/PurchasePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/pages/PurchasePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/pages/RegistrationPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/pages/RegistrationPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/pages/SearchPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/pages/SearchPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/pages/StartPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/pages/StartPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/setupProxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/setupProxy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/styles/ManagerPurchasePage.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/styles/ManagerPurchasePage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/styles/MangaPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/styles/MangaPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/styles/PurchasePage.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab7/mangaFront/my-app/src/styles/PurchasePage.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2Q7AkQZ5FsGoq6GWCTwjSiIWbFz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/RIP_2022/mail",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="673ea507-ba06-4964-9218-d75b73b71e29" name="Changes" comment="" />
+      <created>1684694388580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684694388580</updated>
+      <workItem from="1684694389721" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
